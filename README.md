@@ -1,9 +1,9 @@
 # Mobile-TaaS
 
 Demo Videos:
-  Project Demo: https://www.youtube.com/watch?v=-D_cYa7NVNA
-  br
-  Deployment and installation of KVM: https://www.youtube.com/watch?v=9U6P778Gnho
+Project Demo: https://www.youtube.com/watch?v=-D_cYa7NVNA
+
+Deployment and installation of KVM: https://www.youtube.com/watch?v=9U6P778Gnho
 
 This project is a basic work to show mobile testing environment in Infrastructure as a service cloud.
 Developed Mobile TaaS(Testing as a Service) infrastructure to support mobile application testing using AWS. We have used J2EE , AWS APIs for implementation purpose. Implemented four modules which includes resource request generator,  resource allocation using load balance algorithms, billing modules and graph representation for different metrics using real time data using cloud watch APIs.
